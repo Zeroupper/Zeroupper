@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zeroupper
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++, C#, Java, Flutter and so on.
-- 💞️ I’m looking to collaborate on my new idea
+- 🌱 I recently dove deep in Flutter, I am really a fan of ti.
 - 📫 How to reach me mikloshavlik@gmail.com
 
 <!---
